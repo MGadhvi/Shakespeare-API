@@ -16,9 +16,9 @@ Once you have done this navigate to the project folder and run:
   mvn spring-boot:run
 #+end_src
 
-The project will run by default on port 8080. You can change this by creating an *application.properties file*
+The project will run by default on port 8080. You can change this by creating an /application.properties/ file
 
-*src/main/resources/application.properties*
+/src/main/resources/application.properties/
 #+begin_src shell
    spring.datasource.url=YOUR_DATABASE_URL
    spring.datasource.username=USERNAME
@@ -27,4 +27,3 @@ The project will run by default on port 8080. You can change this by creating an
 #+end_src
 
 ** End-Points
-
