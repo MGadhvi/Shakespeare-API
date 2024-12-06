@@ -1,0 +1,8 @@
+* Shakespeare API
+This project showcases Spring's REST API capabilities using Spring Data. The backed is a postgresql database of Shakespeare's [[https://github.com/catherinedevlin/opensourceshakespeare][plays]]
+
+Since the data is somewhat static, the API provides access to the characters and plays.
+
+** Running the Project
+Start by cloning the repository
+
